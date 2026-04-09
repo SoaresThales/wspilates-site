@@ -1,0 +1,36 @@
+{
+  "pilates": {
+    "empresa": "WS Pilates",
+    "telefone": "5541992636169",
+    "logoUrl": "/logo.png",
+    "sobre": {
+      "titulo": "O Studio",
+      "carrossel": ["/aula-1.jpeg", "/aula-2.jpeg", "/aula-3.jpeg", "/aula-4.jpeg"],
+      "texto": "O WS Pilates, localizado no Jardim das Américas, é um espaço dedicado à saúde, ao bem-estar e ao cuidado através do movimento consciente. Unimos a técnica clássica do Pilates a um ambiente moderno, acolhedor e preparado para que cada aluno se sinta confortável desde o primeiro contato.\n\nNossa equipe é formada por profissionais de Educação Física e Fisioterapia, preparados para atender diferentes públicos com atenção, segurança e acompanhamento individualizado, respeitando as necessidades e objetivos de cada pessoa.\n\nContamos com dois jogos completos de aparelhos, o que permite maior variedade de exercícios e melhor dinâmica de atendimento, além de um ambiente climatizado e cuidadosamente planejado para oferecer mais conforto durante as aulas.\n\nNo WS Pilates, acreditamos que cuidar do corpo é também cuidar da qualidade de vida. Por isso, oferecemos um espaço acolhedor, onde cada aluno é atendido com dedicação, confiança e profissionalismo."
+    },
+    "localizacao": {
+      "titulo": "Localização",
+      "endereco": "Rua Nicolau Copérnico, 30, sala 05 - Jardim das Américas - Curitiba, PR",
+      "linkMapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1059.0838987845214!2d-49.22367071390234!3d-25.464279770920278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce5481b76cc09%3A0xdb50dbefce425fe3!2sWS%20Pilates!5e1!3m2!1spt-BR!2sbr!4v1775684145046!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>" 
+    },
+    "tema": {
+      "fundo": "#12181b",
+      "primaria": "#0abab5",
+      "texto": "#e0e0e0"
+    },
+    "hero": {
+      "titulo": "Movimento que transforma.",
+      "subtitulo": "Recupere sua vitalidade no melhor estúdio de Curitiba.",
+      "botaoTexto": "Agendar Aula Experimental",
+      "fotoFundo": "/background.jpeg"
+    },
+    "rodape": {
+      "descricao": "O WS Pilates une a técnica clássica a um ambiente moderno para transformar sua qualidade de vida através do movimento.",
+      "direitos": "© 2026 WS Pilates. Todos os direitos reservados.",
+      "redesSociais": [
+        { "nome": "Instagram", "url": "https://instagram.com/wsstudiodepilates" },
+        { "nome": "WhatsApp", "url": "https://wa.me/5541992636169" }
+      ]
+    }
+  }
+}
