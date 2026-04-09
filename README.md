@@ -56,4 +56,4 @@ $ npm run dev
 
 ---
 
-Desenvolvido com dedicação por Thales 👨‍💻
+Desenvolvido com dedicação por Thales Soares
